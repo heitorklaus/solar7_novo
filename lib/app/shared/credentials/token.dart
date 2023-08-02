@@ -1,0 +1,4 @@
+class Token {
+  String token =
+      "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJ0ZXN0ZUB0ZXN0ZS5jb20uYnIiLCJqdGkiOiIxIiwiaWF0IjoxNjY4NTY2NTUyLCJleHAiOjE2Njg2NTI5NTJ9.y79fSfsM-n-4U8Q-1il9Q1N8F5OdBqBk-OK9sPpujzxRNTYF4ZoA1pWyfBTvhtdSW2Nxh0G9uoVDU6L3BNukOA";
+}

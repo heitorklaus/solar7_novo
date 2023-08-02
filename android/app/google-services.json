@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "187319673454",
+    "project_id": "solardino-aea02",
+    "storage_bucket": "solardino-aea02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187319673454:android:1d37a2620a27441fb07c7f",
+        "android_client_info": {
+          "package_name": "com.example.solardino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187319673454-0hs1a0nh7v1eht736cf6cssc1n1rhlof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt96GLeBRhkvoNtmtWaTM8xtFNQUQqXQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187319673454-0hs1a0nh7v1eht736cf6cssc1n1rhlof.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "187319673454-s70nqiam1qask998su9ioq13fb5knijd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.solardino"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

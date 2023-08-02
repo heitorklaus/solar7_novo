@@ -1,0 +1,45 @@
+// {
+//     // Use o IntelliSense para saber mais sobre os atributos possíveis.
+//     // Focalizar para exibir as descrições dos atributos existentes.
+//     // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+//     "version": "0.2.0",
+//     "configurations": [
+//         {
+//             "name": "IOS solardino",
+//             "request": "launch",
+//             "type": "dart",
+//             "args": ["--host-vmservice-port" , "43550" , "--dds-port",  "43552"]
+
+//         },
+//         {
+//             "name": "solardino (debug mode)",
+//             "request": "launch",
+//             "type": "dart",
+//             "flutterMode": "release",
+//             "args": ["--host-vmservice-port" , "43550" , "--dds-port",  "43552"]
+//         }
+//     ]
+// }
+
+
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "IOS solardino",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "debug"
+ 
+        },
+        {
+            "name": "solardino (Release Fuck mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release",
+         }
+    ]
+}
